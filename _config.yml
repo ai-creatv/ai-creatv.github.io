@@ -16,7 +16,7 @@ navbar-links:
   Lectures:
     - Algorithm: "https://github.com/ai-creatv/algorithm"
     - Java: "https://github.com/ai-creatv/java"
-  Contacts : "ai@creatv.kr"
+  Contacts : "contacts"
 
 # --- Logo --- #
 
