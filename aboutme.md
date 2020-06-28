@@ -4,4 +4,4 @@ title: About me
 subtitle: AI Engineer/Developer/Lecturer
 ---
 
-Working as a freelancer.
+Working as a freelancer lecturer.
