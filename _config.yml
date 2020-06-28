@@ -14,6 +14,8 @@ author: ai@creatv.kr
 navbar-links:
   About Me: "aboutme"
   Lectures:
+    - Machine Learning: "https://fastcampus.co.kr/data_online_dataadv"
+    - Deep Learning: "https://fastcampus.co.kr/data_online_deep"
     - Algorithm: "https://github.com/ai-creatv/algorithm"
     - Java: "https://github.com/ai-creatv/java"
   Contacts : "contacts"
